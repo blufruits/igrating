@@ -1,4 +1,4 @@
-# igrating
+# Instagram Rating
 
 This repository exists purely to aid my learning of Python. The pyplot module from the matplotlib library is requried.
 

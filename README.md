@@ -4,7 +4,7 @@ This repository exists purely to aid my learning of Python. The pyplot module fr
 
 Background knowledge:
 
-In Instagram you follow others and others follow you. It tends to be the case that these two values are not the same, the main culprit being celebrities and other famous indiviuals who do not follow back (this could be you). This is an an undesireable state to be in.
+In Instagram you follow others and others follow you. It tends to be the case that these two values are not the same, the main culprit being celebrities and other famous individuals who do not follow back (this could be you). This is an an undesireable state to be in.
 One way of remedying this (except for unfollowing famous people) is by following 'mutual' people. These 'mutal' people follow you back. By following 'mutal' people your follower + following metrics will become more similar, which is what you want.
 
 What the code does:

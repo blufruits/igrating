@@ -13,7 +13,7 @@ The code has two objectives - to display your current Instagram rating and to sh
 
 Mathematics:
 
-All the script does is plot f(n) = (A+n)/(B+n) with A,B and the range of n being defined by the user.
+All the script does is plot f(n) = (A+n)/(B+n) with A,B and the range of n being defined by the user. A,B,n ∈ Z*
 
 
 

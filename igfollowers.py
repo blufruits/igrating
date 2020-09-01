@@ -7,7 +7,7 @@ initial_followingnotrunc = float(input("Current following ")) #attributing the n
 initial_followers = math.trunc(initial_followersnotrunc) #removing fractional part if need be. 
 initial_following = math.trunc(initial_followingnotrunc)
 
-if initial_followers ==0 and initial_following == 0: #deals with /0 error. If only one variable is 0 no /0 error can occur (look below)
+if initial_followers ==0 and initial_following == 0: #deals with /0 error. If only one variable is 0 no /0 error can occur (lines 35-47 deal with this)
     print ("No rating can be generated")
     exit()
 elif initial_followers < 0 or initial_following < 0:

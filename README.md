@@ -1,6 +1,5 @@
 # Instagram Rating
-
-This repository exists purely to aid my learning of Python. As a result of this there are many comments that are probably not useful to others. The pyplot module from the matplotlib library is requried.
+This partly exists to aid my learning of Python. As a result of this there are some comments that will not be useful to others. The pyplot module from the matplotlib library is requried.
 
 Background knowledge:
 

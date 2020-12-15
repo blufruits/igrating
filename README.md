@@ -4,7 +4,7 @@ This partly exists to aid my learning of Python. As a result of this there are s
 Background knowledge:
 
 In Instagram you follow others and others follow you. It tends to be the case that these two values are not the same, the main culprit being celebrities and other famous individuals who do not follow back (this could be you). This is an an undesireable state to be in.
-One way of remedying this (except for unfollowing famous people) is by following 'mutual' people. These 'mutal' people follow you back. By following 'mutal' people your follower + following metrics will become more similar, which is what you want.
+One way of remedying this (except by unfollowing famous people) is by following 'mutual' people. These 'mutal' people follow you back. By following 'mutal' people your follower + following metrics will become more similar, which is what you want.
 
 What the code does:
 
@@ -12,7 +12,7 @@ The code has two objectives - to display your current Instagram rating and to sh
 
 Mathematics:
 
-All the script does is plot f(n) = (A+n)/(B+n) with A,B and the domain of n being defined by the user. A,B,n ∈ N
+The script plots f(n) = (A+n)/(B+n) with A,B and the domain of f being defined by the user. A,B,n ∈ N
 
 
 
